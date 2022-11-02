@@ -1,0 +1,10 @@
+.adv{
+    padding: 2em;
+    margin-left: 1em;
+    border: 1px solid rgb(247, 248, 249);
+    box-shadow: rgba(8, 11, 14, 0.06) 0px 0px 1px 0px, rgba(8, 11, 14, 0.1) 0px 6px 6px -1px;
+}
+.adv a{
+    color: rgb(2, 109, 214);
+    cursor: pointer;
+}

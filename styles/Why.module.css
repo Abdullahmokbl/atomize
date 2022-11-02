@@ -1,0 +1,21 @@
+.why{
+    /* background-color: rebeccapurple; */
+    padding-top: 8rem;
+    border-bottom: 1px solid rgb(241, 242, 244);
+    padding-bottom: 10.5rem;
+}
+.key{
+    background-color: black;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    border-radius: 1000rem;
+    text-align: center;
+}
+.why h3{
+    font-size: 2em;
+    font-weight: normal;
+}
+.advs{
+    display: flex;
+}

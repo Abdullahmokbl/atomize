@@ -1,0 +1,33 @@
+.design{padding-top: 10em;}
+.design h2{
+    font-size: 48px;
+}
+.design p{
+    max-width: 36rem;
+    text-align: center;
+    color: rgb(80, 82, 86);
+}
+.btns{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    /* background-color: aqua; */
+    padding: 1em;
+    margin: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid rgb(225, 228, 232);
+    transition: all .4s ease-in-out 0s;
+}
+.btn:first-of-type{
+    background-color: rgb(2, 132, 254);
+    color: white;
+}
+.btn:last-of-type{color: rgb(80, 82, 86);}
+.btn:first-of-type:hover{background: rgb(75, 167, 254) none repeat scroll 0% 0%;}
+.btn:last-of-type:hover{border-color: rgb(176, 183, 195);}
+.btn svg{
+    width: 18px;
+    margin-right: 0.5rem;
+}

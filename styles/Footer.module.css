@@ -1,0 +1,13 @@
+.footer{
+    padding: 3em;
+    text-align: center;
+    margin-top: 5em;
+}
+.text{
+    margin-bottom: 1em;
+}
+.footer svg{
+    width: 20px;
+    margin-left: 1em;
+    cursor: pointer;
+}

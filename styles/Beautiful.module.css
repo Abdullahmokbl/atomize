@@ -1,0 +1,15 @@
+.beautiful h2{font-size: 40px;}
+.beautiful h2 span{color: #06d7ff;}
+.advs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.adv{
+    max-width: 10em;
+    margin-right: 1em;
+    margin-bottom: 3em;
+}
+.title{
+    font-size: 17px;
+}
+.p{color: rgb(80, 82, 86);}
