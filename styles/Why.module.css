@@ -15,7 +15,9 @@
 .why h3{
     font-size: 2em;
     font-weight: normal;
+    line-height: 1.5em;
 }
 .advs{
     display: flex;
+    flex-wrap: wrap;
 }
