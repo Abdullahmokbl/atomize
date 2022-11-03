@@ -4,7 +4,6 @@ import styles from './../styles/Navbar.module.css';
 
 export default function Navbar() {
   const [showdp, setShowdp] = useState(false)
-  console.log(showdp)
   return (
     <nav className={styles.nav}>
       <h2>Atomize</h2>
